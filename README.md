@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Santo! 👋
 
-<!--
-**santoph13/santoph13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Data Science Student | Python & Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+I am a dedicated student at **Universitas Terbuka** majoring in **Data Science**. I love exploring data, building interactive dashboards, and automating workflows to make life easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+- **Data Analysis:** Python (Pandas, NumPy), SQL
+- **Visualization:** Tableau, Excel (Advanced)
+- **Operations:** Meta Business Suite, OBS Studio, Digital Operations Support
+
+---
+
+### 📜 Certifications & Projects
+- **Intro to Data Analytics** – RevoU (Feb 2026)
+- **Tableau Desktop Fundamentals** – Zenith Academy (2025)
+- **Excel Automation:** Developed Python scripts to streamline data cleaning and reporting processes.
+
+---
+
+### 📫 Let's Connect!
+- 📧 **Email:** santoph13@gmail.com
+- 📍 **Location:** Bogor, Indonesia
+- 💼 **Goal:** Seeking opportunities as a Data Analyst or in IT/Operations Support.
+
+---
+*"Turning raw data into meaningful stories."*
