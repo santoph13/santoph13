@@ -43,8 +43,20 @@
 ### 📈 GitHub Statistics & Activity
 
 <div align="center">
-  <!-- Card Status GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=santoph13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <!-- Status Utama GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=santoph13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  
+  <!-- Streak Commit -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoph13&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Bahasa Programming yang Digunakan -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=santoph13&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+</div>
+
   
   <!-- Card Streak Commit -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoph13&theme=tokyonight&hide_border=true" height="160" />
