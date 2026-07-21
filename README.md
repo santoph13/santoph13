@@ -2,11 +2,23 @@
   <!-- Header Banner Animasi -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Santo%20Parningotan%20Hutapea&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h3>👨‍💻 Data Science Student | Data Analytics & Developer Enthusiast</h3>
-  <p><i>"Turning raw data into meaningful stories."</i></p>
+  <!-- Teks Animasi Ngetik Otomatis -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+Undergraduate;Data+Analyst+%26+Econometric+Modeler;Full-Stack+Frontend+Developer;Turning+Raw+Data+into+Stories" alt="Typing SVG" />
+  </a>
 
-  <p>
-    📍 <b>Bogor, Indonesia</b> | 📧 <a href="mailto:santoph13@gmail.com">santoph13@gmail.com</a>
+  <p align="center">
+    📍 <b>Bogor, Indonesia</b>
+  </p>
+
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="mailto:santoph13@gmail.com">
+      <img src="https://img.shields.io/badge/Email-santoph13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/santoph13">
+      <img src="https://img.shields.io/badge/GitHub-santoph13-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -57,30 +69,25 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=santoph13&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
-  
-  <!-- Card Streak Commit -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoph13&theme=tokyonight&hide_border=true" height="160" />
-</div>
+---
 
-<br />
+### 🎮 Contribution Game Animation
 
 <div align="center">
-  <!-- Bahasa yang sering dipakai -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoph13&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
 
-### 🎮 Contribution Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+### 📜 Certifications & Key Focus
+* 🎓 **Bachelor of Science in Data Science** – Universitas Terbuka
+* 📜 **Intro to Data Analytics** – RevoU
+* 📜 **Tableau Desktop Fundamentals** – Zenith Academy
+* 📜 **Snowflake Discover AI** – Snowflake
 
 ---
 
-### 📜 Certifications & Achievements
-* 🎓 **Bachelor of Science in Data Science** – Universitas Terbuka (Ongoing)
-* 📜 **Intro to Data Analytics** – RevoU (2026)
-* 📜 **Tableau Desktop Fundamentals** – Zenith Academy (2025)
-* 📜 **Snowflake Discover AI** – Snowflake (2026)
+<div align="center">
+  <!-- Quote Card Otomatis -->
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&cardwidth=500" alt="Daily Quote" />
+</div>
