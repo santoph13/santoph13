@@ -53,6 +53,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+#### 🤖 AI & Generative AI
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LLM Tools](https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
+
 ---
 
 ### 🚀 PageSpeed Performance Insights
@@ -87,13 +91,14 @@
 ### 🎮 Contribution Game Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" width="100%" />
 </div>
 
 ---
 
 ### 📜 Certifications & Key Focus
 * 🎓 **Bachelor of Science in Data Science** – Universitas Terbuka
+* 📜 **LLM-Based Tools & Gemini API Integration for Data Scientists** – Maju Bareng AI
 * 📜 **Intro to Data Analytics** – RevoU
 * 📜 **Tableau Desktop Fundamentals** – Zenith Academy
 * 📜 **Snowflake Discover AI** – Snowflake
@@ -101,6 +106,6 @@
 ---
 
 <div align="center">
-  <!-- Quote Card Otomatis -->
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&cardwidth=500" alt="Daily Quote" />
+  <!-- Hindia Quote Card (Custom Orange Theme) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=4000&pause=2000&color=EA580C&center=true&vCenter=true&width=600&lines=Hidup+bukan+saling+mendahului,;bermimpilah+sendiri-sendiri.;-++Hindia+(Besok+Mungkin+Kita+Sampai)" alt="Hindia Quote" />
 </div>
