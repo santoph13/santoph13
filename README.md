@@ -106,6 +106,8 @@
 ---
 
 <div align="center">
-  <!-- Hindia Quote Card (Custom Orange Theme) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=4000&pause=2000&color=EA580C&center=true&vCenter=true&width=600&lines=Hidup+bukan+saling+mendahului,;bermimpilah+sendiri-sendiri.;-++Hindia+(Besok+Mungkin+Kita+Sampai)" alt="Hindia Quote" />
+  <p style="color: #EA580C; font-size: 16px; font-weight: 600; font-family: 'Inter', sans-serif;">
+    <i>"Hidup bukan saling mendahului, bermimpilah sendiri-sendiri."</i><br />
+    <span style="font-size: 14px; opacity: 0.8;">— Hindia (Besok Mungkin Kita Sampai)</span>
+  </p>
 </div>
