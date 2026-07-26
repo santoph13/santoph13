@@ -4,7 +4,7 @@
 
   <!-- Teks Animasi Ngetik Otomatis -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+;Full-Stack+Web+Developer;Data+Analyst+%26+Econometric+Modeler;Turning+Raw+Data+into+Stories" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Data+Science+Undergraduate;Full-Stack+Web+Developer;Data+Analyst+%26+Econometric+Modeler;Turning+Raw+Data+into+Stories" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -92,14 +92,14 @@
 ### 🎮 Contribution Game Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake-yml" alt="Pacman Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" width="100%" />
 </div>
 
 ---
 
 ### 📜 Certifications & Key Focus
 * 🎓 **Bachelor of Science in Data Science** – Universitas Terbuka
-* 📜 **LLM-Based Tools & Gemini API Integration for Data Scientists** – Hacktiv8
+* 📜 **LLM-Based Tools & Gemini API Integration for Data Scientists** – Maju Bareng AI
 * 📜 **Intro to Data Analytics** – RevoU
 * 📜 **Tableau Desktop Fundamentals** – Zenith Academy
 * 📜 **Snowflake Discover AI** – Snowflake
@@ -107,16 +107,8 @@
 ---
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="background-color: #0f172a; border: 1.5px solid #ea580c; border-radius: 12px; padding: 18px 30px; box-shadow: 0 4px 12px rgba(234, 88, 12, 0.15);">
-        <p style="color: #ffffff; font-size: 15px; font-weight: 600; font-family: 'Inter', sans-serif; margin: 0 0 6px 0; line-height: 1.5;">
-          <i>"Hidup bukan saling mendahului, bermimpilah sendiri-sendiri."</i>
-        </p>
-        <p style="color: #ea580c; font-size: 13px; font-weight: 500; font-family: 'Inter', sans-serif; margin: 0; opacity: 0.95;">
-          — Hindia <span style="color: #94a3b8; font-size: 12px;">(Besok Mungkin Kita Sampai)</span>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <p style="color: #EA580C; font-size: 16px; font-weight: 600; font-family: 'Inter', sans-serif;">
+    <i>"Hidup bukan saling mendahului, bermimpilah sendiri-sendiri."</i><br />
+    <span style="font-size: 14px; opacity: 0.8;">— Hindia (Besok Mungkin Kita Sampai)</span>
+  </p>
 </div>
