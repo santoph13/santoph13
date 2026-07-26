@@ -92,7 +92,7 @@
 ### 🎮 Contribution Game Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/santoph13/santoph13/output/github-contribution-grid-snake-yml" alt="Pacman Animation" width="100%" />
 </div>
 
 ---
