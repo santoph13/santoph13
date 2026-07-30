@@ -74,7 +74,7 @@
 
 <div align="center">
   <!-- Status Utama GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=santoph13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santoph13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   
   <!-- Streak Commit -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoph13&theme=tokyonight&hide_border=true" width="48%" />
@@ -83,8 +83,8 @@
 <br />
 
 <div align="center">
-  <!-- Bahasa Programming yang Digunakan -->
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=santoph13&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+  <!-- Bahasa Programming yang Digunakan (Official API & Force Refresh) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoph13&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" width="70%" />
 </div>
 
 ---
